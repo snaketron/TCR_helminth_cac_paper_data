@@ -1,7 +1,6 @@
 # Helminth-Driven CD8⁺ T Cell Differentiation Fosters Colorectal Cancer Development
 
-This repository contains the scripts and processed datasets used in the study
-"Helminth-Driven CD8⁺ T Cell Differentiation Fosters Colorectal Cancer Development."
+This repository contains the R scripts used for T-cell receptor (TCR) repertoire analysis in the study “Helminth-Driven CD8⁺ T Cell Differentiation Fosters Colorectal Cancer Development.” It also includes the processed TCR clonotype tables used as inputs for the downstream analyses described below.
 
 ## Overview
 
